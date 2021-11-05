@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Game01/static/css/main.2a6c2137.chunk.css",
+    "main.js": "/Game01/static/js/main.e9bd1763.chunk.js",
+    "main.js.map": "/Game01/static/js/main.e9bd1763.chunk.js.map",
+    "runtime-main.js": "/Game01/static/js/runtime-main.25fa512d.js",
+    "runtime-main.js.map": "/Game01/static/js/runtime-main.25fa512d.js.map",
+    "static/js/2.b6fd471b.chunk.js": "/Game01/static/js/2.b6fd471b.chunk.js",
+    "static/js/2.b6fd471b.chunk.js.map": "/Game01/static/js/2.b6fd471b.chunk.js.map",
+    "index.html": "/Game01/index.html",
+    "static/css/main.2a6c2137.chunk.css.map": "/Game01/static/css/main.2a6c2137.chunk.css.map",
+    "static/js/2.b6fd471b.chunk.js.LICENSE.txt": "/Game01/static/js/2.b6fd471b.chunk.js.LICENSE.txt",
+    "static/media/image.5401131f.jpeg": "/Game01/static/media/image.5401131f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25fa512d.js",
+    "static/js/2.b6fd471b.chunk.js",
+    "static/css/main.2a6c2137.chunk.css",
+    "static/js/main.e9bd1763.chunk.js"
+  ]
+}

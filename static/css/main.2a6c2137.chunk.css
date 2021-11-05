@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap")
+
+
+
+*{padding:0;margin:0;box-sizing:border-box}body{background-color:#000;background-image:src(image.jpeng);color:#fff;font-family:"Roboto",sans-serif;display:flex;justify-content:center;min-height:100vh;padding:2rem;margin-right:"40px"}@media screen and (min-width:320px){body{background-color:"";color:""}}h1{margin:2rem}.board{border:#ff652f;color:#fff;width:288px;height:380px;display:grid;grid-template:repeat(3,1fr)/repeat(3,1fr);grid-gap:.4rem;gap:.4rem}.board,.squares{margin-right:"40px"}.squares{background:#272727;border:none;font-size:5rem;cursor:pointer;outline:none}@media screen and (max-width:900px) and (min-width:600px){squares{font-size:50px;padding:50px;border:8px solid #000;background:#ff0;margin-right:"70px"}}.X{color:red}.O{color:green}.info-wrapper{display:flex;justify-content:space-between}h3{padding:1rem;margin-right:20px}li{list-style:none}.info-wrapper button{background:#272727;color:#fff;border:none;outline:none;cursor:pointer;padding:.5rem;margin:.5rem 1rem}
+/*# sourceMappingURL=main.2a6c2137.chunk.css.map */
